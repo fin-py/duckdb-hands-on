@@ -1,2 +1,3 @@
 # duckdb-hands-on
+
 DuckDBハンズオン

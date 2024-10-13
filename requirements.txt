@@ -1,0 +1,8 @@
+duckdb
+duckdb-engine
+jupysql
+ipykernel
+nbformat
+pandas
+pyarrow
+polars
