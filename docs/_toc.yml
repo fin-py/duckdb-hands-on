@@ -8,3 +8,4 @@ chapters:
 - file: jupyter
 - file: python
 - file: data-ingestion
+- file: relational-api
