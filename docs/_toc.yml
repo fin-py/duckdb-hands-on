@@ -10,3 +10,4 @@ chapters:
 - file: data-ingestion
 - file: relational-api
 - file: function-qpi
+- file: expression-api
