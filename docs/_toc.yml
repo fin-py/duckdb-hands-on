@@ -8,7 +8,8 @@ chapters:
 - file: install
 - file: jupyter
 - file: python
-- file: data-ingestion
+- file: data-import
+- file: data-export
 - file: relational-api
 - file: function-qpi
 - file: expression-api

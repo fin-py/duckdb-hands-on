@@ -1,0 +1,6 @@
+database_name,database_oid,schema_name,function_name,function_type,description,comment,tags,return_type,parameters,parameter_types,varargs,macro_definition,has_side_effects,internal,function_oid,example,stability
+system,0,main,pragma_platform,table,,,{},,[],[],,,,true,8,,
+system,0,main,json_execute_serialized_sql,table,,,{},,[col0],[VARCHAR],,,,true,1224,,
+system,0,main,pandas_scan,table,,,{},,[col0],[POINTER],,,,true,1826,,
+system,0,main,parquet_file_metadata,table,,,{},,[col0],[VARCHAR],,,,true,1820,,
+system,0,main,parquet_file_metadata,table,,,{},,[col0],[VARCHAR[]],,,,true,1820,,
